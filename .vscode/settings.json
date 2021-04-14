@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "bin": true,
+        "obj": true,
+        "**/node_modules": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "csharp.unitTestDebuggingOptions": {
+    
+    },
+    "razor.disableBlazorDebugPrompt": true
+}
